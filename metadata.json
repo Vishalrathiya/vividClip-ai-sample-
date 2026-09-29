@@ -1,0 +1,7 @@
+{
+  "name": "VividClip AI",
+  "description": "Create short, stunning AI videos for free from text prompts and photos. Transparent free tier, fast queues, cinematic styles, and instant downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
